@@ -4,6 +4,9 @@ from django.http import HttpResponse
 from .utils import crawl_data
 
 val = '''
+    <!DOCTYPE svg PUBLIC 
+        "-//W3C//DTD SVG 1.1//EN" 
+        "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
     <svg width="551" height="269" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
     <g>
@@ -29,6 +32,7 @@ def user(request):
         handle = request.GET['handle']
         user_data = crawl_data(handle)
         response = HttpResponse(content=str(val))
+        response['Content-Type'] = 'image/svg+xml'
         return response
 
     except:
