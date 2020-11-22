@@ -11,6 +11,7 @@ Why not use ```cf-ratings```?
 
 gl hf!
 
+
 ## 👀 How to use
 
 Just write the code below on your readme.md
@@ -18,6 +19,13 @@ Just write the code below on your readme.md
 ```[![Codeforces Profile](http://cf-ratings.site:8000/api/user?handle={your_handle})](https://codeforces.com/profile/{your_handle})```
 
 It's that simple.
+
+
+## Demo Designs
+
+[![Demo profile Cyan](http://cf-ratings.site:8000/api/user?handle=gyunghoe_)](https://codeforces.com/profile/gyunghoe_)
+
+
 
 ## 🙌 Join our project
 
