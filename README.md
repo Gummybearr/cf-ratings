@@ -15,7 +15,7 @@ gl hf!
 
 Just write the code below on your readme.md
 
-<code> [![Codeforces Profile](http://cf-ratings.site:8000/api/user?handle={your_handle})](https://codeforces.com/profile/{your_handle}) </code>
+```[![Codeforces Profile](http://cf-ratings.site:8000/api/user?handle={your_handle})](https://codeforces.com/profile/{your_handle})```
 
 It's that simple.
 
