@@ -30,7 +30,7 @@ It's that simple.
 [![Demo profile Blue](http://cf-ratings.site:8000/api/user?handle=Nickolas)](https://codeforces.com/profile/Nickolas)
 [![Demo profile Cyan](http://cf-ratings.site:8000/api/user?handle=itachikesh)](https://codeforces.com/profile/itachikesh)
 [![Demo profile Green](http://cf-ratings.site:8000/api/user?handle=SupaHotFire)](https://codeforces.com/profile/SupaHotFire)
-[![Demo profile Grey](http://cf-ratings.site:8000/api/user?handle=meeooow)](https://codeforces.com/profile/meeooow)
+[![Demo profile Grey](http://cf-ratings.site:8000/api/user?handle=710)](https://codeforces.com/profile/710)
 
 
 
