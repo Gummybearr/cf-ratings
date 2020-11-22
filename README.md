@@ -24,7 +24,7 @@ It's that simple.
 ## Demo Designs
 
 [![Demo profile Nutella](http://cf-ratings.site:8000/api/user?handle=tourist)](https://codeforces.com/profile/tourist)
-[![Demo profile Red](http://cf-ratings.site:8000/api/user?handle=Monogon)](https://codeforces.com/profile/Monogon)
+[![Demo profile Red](http://cf-ratings.site:8000/api/user?handle=SecondThread)](https://codeforces.com/profile/SecondThread)
 [![Demo profile Orange](http://cf-ratings.site:8000/api/user?handle=vovuh)](https://codeforces.com/profile/vovuh)
 [![Demo profile Purple](http://cf-ratings.site:8000/api/user?handle=YouKn0wWho)](https://codeforces.com/profile/YouKn0wWho)
 [![Demo profile Blue](http://cf-ratings.site:8000/api/user?handle=Nickolas)](https://codeforces.com/profile/Nickolas)
